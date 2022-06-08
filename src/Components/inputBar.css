@@ -1,0 +1,21 @@
+* {
+  background-color: black;
+  color: white;
+}
+
+.Instruction {
+  color: white;
+}
+
+.text,
+.button {
+  background-color: white;
+  margin-top: 6rem;
+  color: black;
+}
+
+.text:hover,
+.button:hover {
+  cursor: pointer;
+  background-color: gray;
+}
